@@ -1,0 +1,8 @@
+mode: set
+test_internals/main.go:5.13,8.2 2 0
+test_internals/print_string.go:8.48,9.14 1 1
+test_internals/print_string.go:9.14,11.3 1 0
+test_internals/print_string.go:12.2,13.27 2 1
+test_internals/pkg/print_string_pkg.go:8.55,9.14 1 1
+test_internals/pkg/print_string_pkg.go:9.14,11.3 1 0
+test_internals/pkg/print_string_pkg.go:12.2,13.27 2 1
